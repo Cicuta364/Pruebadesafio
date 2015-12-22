@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  charge: 1
+  client: MyString
+  acount_type: MyString
+  date: 2015-12-21 22:03:35
+  balance: 1
+
+two:
+  description: MyString
+  charge: 1
+  client: MyString
+  acount_type: MyString
+  date: 2015-12-21 22:03:35
+  balance: 1
